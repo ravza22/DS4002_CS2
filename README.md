@@ -1,10 +1,10 @@
-# DS4002_CS2
+# Gerrymandering Case Study
 ### A DS 4002 Case Study by Ravza Aykan
 
 ![Current congressional district boundaries](C:\Users\ravza\OneDrive\Documents\3rd Year\Fall 2023\DS 4002\Canvas submissions\Case studies\GitHub Repo Materials)
 
 ## Hook and Rubric Documents
-The hook document outlining the case study is the file labeled [CS2Hook_Gerrymandering.pdf](C:\Users\ravza\OneDrive\Documents\3rd Year\Fall 2023\DS 4002\Canvas submissions\Case studies\GitHub Repo Materials). The rubric [CS2Rubric_Gerrymandering.pdf](C:\Users\ravza\OneDrive\Documents\3rd Year\Fall 2023\DS 4002\Canvas submissions\Case studies\GitHub Repo Materials) outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
+The hook document outlining the case study is the file labeled [CS2Hook_Gerrymandering.pdf](/CS2Hook_Gerrymandering.pdf). The rubric [CS2Rubric_Gerrymandering.pdf](/CS2Rubric_Gerrymandering.pdf) outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
 
 ## Data
 The image data can be obtained from FiveThirtyEight linked [here](https://projects.fivethirtyeight.com/redistricting-maps/). The Data folder contains several images for various states, but there are more states to choose from on FiveThirtyEight. Additionally, you can find the declination angle (i.e., the numeric representation of the degree of partisan gerrymandering in a state) [here](https://observablehq.com/@sahilchinoy/gerrymandering-the-declination-function), which you will use to verify the results of your image analysis. 
