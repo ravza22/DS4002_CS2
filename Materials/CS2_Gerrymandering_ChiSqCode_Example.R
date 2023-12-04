@@ -25,6 +25,7 @@ rownames(VA_prop_part) <- c("Non-gerrymandered")
 colnames(VA_prop_part) <- c("Light red", "Medium red", "Dark red", "purple", "Light blue", "Dark blue")
 VA_table <- rbind(VA_current, VA_prop_part)
 
+# Conduct chi-sq test
 chisq.test(VA_table)
 
 
