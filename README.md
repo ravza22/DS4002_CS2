@@ -1,7 +1,7 @@
 # Gerrymandering Case Study
 ### A DS 4002 Case Study by Ravza Aykan
 
-### Current congressional district boundaries
+## Current congressional district boundaries
 <img width="511" alt="image" src="https://github.com/ravza22/DS4002_CS2/assets/112036611/10df69ba-2055-46dc-badd-8d7d7508485d">
 
 ## Hook and Rubric Documents
