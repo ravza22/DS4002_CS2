@@ -1,7 +1,8 @@
 # Gerrymandering Case Study
 ### A DS 4002 Case Study by Ravza Aykan
 
-![Current congressional district boundaries](C:\Users\ravza\OneDrive\Documents\3rd Year\Fall 2023\DS 4002\Canvas submissions\Case studies\GitHub Repo Materials)
+### Current congressional district boundaries
+<img width="511" alt="image" src="https://github.com/ravza22/DS4002_CS2/assets/112036611/10df69ba-2055-46dc-badd-8d7d7508485d">
 
 ## Hook and Rubric Documents
 The hook document outlining the case study is the file labeled [CS2Hook_Gerrymandering.pdf](/CS2Hook_Gerrymandering.pdf). The rubric [CS2Rubric_Gerrymandering.pdf](/CS2Rubric_Gerrymandering.pdf) outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
